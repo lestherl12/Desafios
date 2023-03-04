@@ -1,0 +1,15 @@
+C:\Users\Windows 10\Desktop\progra I\Desafiocinco\bin\Debug\net6.0\Desafiocinco.exe
+C:\Users\Windows 10\Desktop\progra I\Desafiocinco\bin\Debug\net6.0\Desafiocinco.deps.json
+C:\Users\Windows 10\Desktop\progra I\Desafiocinco\bin\Debug\net6.0\Desafiocinco.runtimeconfig.json
+C:\Users\Windows 10\Desktop\progra I\Desafiocinco\bin\Debug\net6.0\Desafiocinco.dll
+C:\Users\Windows 10\Desktop\progra I\Desafiocinco\bin\Debug\net6.0\Desafiocinco.pdb
+C:\Users\Windows 10\Desktop\progra I\Desafiocinco\obj\Debug\net6.0\Desafiocinco.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\progra I\Desafiocinco\obj\Debug\net6.0\Desafiocinco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\Desktop\progra I\Desafiocinco\obj\Debug\net6.0\Desafiocinco.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Desktop\progra I\Desafiocinco\obj\Debug\net6.0\Desafiocinco.AssemblyInfo.cs
+C:\Users\Windows 10\Desktop\progra I\Desafiocinco\obj\Debug\net6.0\Desafiocinco.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\progra I\Desafiocinco\obj\Debug\net6.0\Desafiocinco.dll
+C:\Users\Windows 10\Desktop\progra I\Desafiocinco\obj\Debug\net6.0\refint\Desafiocinco.dll
+C:\Users\Windows 10\Desktop\progra I\Desafiocinco\obj\Debug\net6.0\Desafiocinco.pdb
+C:\Users\Windows 10\Desktop\progra I\Desafiocinco\obj\Debug\net6.0\Desafiocinco.genruntimeconfig.cache
+C:\Users\Windows 10\Desktop\progra I\Desafiocinco\obj\Debug\net6.0\ref\Desafiocinco.dll
