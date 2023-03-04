@@ -1,0 +1,15 @@
+C:\Users\Windows 10\Desktop\progra I\desafiodos\obj\Debug\net6.0\desafiodos.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\progra I\desafiodos\obj\Debug\net6.0\desafiodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\Desktop\progra I\desafiodos\obj\Debug\net6.0\desafiodos.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Desktop\progra I\desafiodos\obj\Debug\net6.0\desafiodos.AssemblyInfo.cs
+C:\Users\Windows 10\Desktop\progra I\desafiodos\obj\Debug\net6.0\desafiodos.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\progra I\desafiodos\bin\Debug\net6.0\desafiodos.exe
+C:\Users\Windows 10\Desktop\progra I\desafiodos\bin\Debug\net6.0\desafiodos.deps.json
+C:\Users\Windows 10\Desktop\progra I\desafiodos\bin\Debug\net6.0\desafiodos.runtimeconfig.json
+C:\Users\Windows 10\Desktop\progra I\desafiodos\bin\Debug\net6.0\desafiodos.dll
+C:\Users\Windows 10\Desktop\progra I\desafiodos\bin\Debug\net6.0\desafiodos.pdb
+C:\Users\Windows 10\Desktop\progra I\desafiodos\obj\Debug\net6.0\desafiodos.dll
+C:\Users\Windows 10\Desktop\progra I\desafiodos\obj\Debug\net6.0\refint\desafiodos.dll
+C:\Users\Windows 10\Desktop\progra I\desafiodos\obj\Debug\net6.0\desafiodos.pdb
+C:\Users\Windows 10\Desktop\progra I\desafiodos\obj\Debug\net6.0\desafiodos.genruntimeconfig.cache
+C:\Users\Windows 10\Desktop\progra I\desafiodos\obj\Debug\net6.0\ref\desafiodos.dll

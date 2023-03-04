@@ -1,0 +1,15 @@
+C:\Users\Windows 10\Desktop\progra I\desafiocuatro\bin\Debug\net6.0\desafiocuatro.exe
+C:\Users\Windows 10\Desktop\progra I\desafiocuatro\bin\Debug\net6.0\desafiocuatro.deps.json
+C:\Users\Windows 10\Desktop\progra I\desafiocuatro\bin\Debug\net6.0\desafiocuatro.runtimeconfig.json
+C:\Users\Windows 10\Desktop\progra I\desafiocuatro\bin\Debug\net6.0\desafiocuatro.dll
+C:\Users\Windows 10\Desktop\progra I\desafiocuatro\bin\Debug\net6.0\desafiocuatro.pdb
+C:\Users\Windows 10\Desktop\progra I\desafiocuatro\obj\Debug\net6.0\desafiocuatro.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\progra I\desafiocuatro\obj\Debug\net6.0\desafiocuatro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\Desktop\progra I\desafiocuatro\obj\Debug\net6.0\desafiocuatro.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Desktop\progra I\desafiocuatro\obj\Debug\net6.0\desafiocuatro.AssemblyInfo.cs
+C:\Users\Windows 10\Desktop\progra I\desafiocuatro\obj\Debug\net6.0\desafiocuatro.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\progra I\desafiocuatro\obj\Debug\net6.0\desafiocuatro.dll
+C:\Users\Windows 10\Desktop\progra I\desafiocuatro\obj\Debug\net6.0\refint\desafiocuatro.dll
+C:\Users\Windows 10\Desktop\progra I\desafiocuatro\obj\Debug\net6.0\desafiocuatro.pdb
+C:\Users\Windows 10\Desktop\progra I\desafiocuatro\obj\Debug\net6.0\desafiocuatro.genruntimeconfig.cache
+C:\Users\Windows 10\Desktop\progra I\desafiocuatro\obj\Debug\net6.0\ref\desafiocuatro.dll

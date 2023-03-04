@@ -1,0 +1,15 @@
+C:\Users\Windows 10\Desktop\progra I\desafio3\bin\Debug\net6.0\desafio3.exe
+C:\Users\Windows 10\Desktop\progra I\desafio3\bin\Debug\net6.0\desafio3.deps.json
+C:\Users\Windows 10\Desktop\progra I\desafio3\bin\Debug\net6.0\desafio3.runtimeconfig.json
+C:\Users\Windows 10\Desktop\progra I\desafio3\bin\Debug\net6.0\desafio3.dll
+C:\Users\Windows 10\Desktop\progra I\desafio3\bin\Debug\net6.0\desafio3.pdb
+C:\Users\Windows 10\Desktop\progra I\desafio3\obj\Debug\net6.0\desafio3.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\progra I\desafio3\obj\Debug\net6.0\desafio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\Desktop\progra I\desafio3\obj\Debug\net6.0\desafio3.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Desktop\progra I\desafio3\obj\Debug\net6.0\desafio3.AssemblyInfo.cs
+C:\Users\Windows 10\Desktop\progra I\desafio3\obj\Debug\net6.0\desafio3.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\progra I\desafio3\obj\Debug\net6.0\desafio3.dll
+C:\Users\Windows 10\Desktop\progra I\desafio3\obj\Debug\net6.0\refint\desafio3.dll
+C:\Users\Windows 10\Desktop\progra I\desafio3\obj\Debug\net6.0\desafio3.pdb
+C:\Users\Windows 10\Desktop\progra I\desafio3\obj\Debug\net6.0\desafio3.genruntimeconfig.cache
+C:\Users\Windows 10\Desktop\progra I\desafio3\obj\Debug\net6.0\ref\desafio3.dll
